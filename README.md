@@ -30,8 +30,7 @@ pip install tensorflow keras numpy matplotlib
 
 ## Usage
 1. Clone the repository:
-```bash
-[git clone https://github.com/your-username/neural-network-guide.git](https://github.com/Amanyadav-07/Neural_Network.git)
+```bash (https://github.com/Amanyadav-07/Neural_Network.git)
 ```
 2. Navigate to the folder:
 ```bash
